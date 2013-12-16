@@ -1,0 +1,56 @@
+E:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.exe
+E:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.pdb
+E:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment_Data_Analyser.Form1.resources
+E:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment_Data_Analyser.Properties.Resources.resources
+E:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.exe
+E:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.pdb
+H:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.exe
+H:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.pdb
+H:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment_Data_Analyser.Form1.resources
+H:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment_Data_Analyser.Properties.Resources.resources
+H:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.exe
+H:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.pdb
+D:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.exe
+D:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.pdb
+D:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.exe
+D:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.pdb
+D:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment_Data_Analyser.Form1.resources
+D:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment_Data_Analyser.Properties.Resources.resources
+D:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jamie\Desktop\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.exe
+C:\Users\Jamie\Desktop\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.pdb
+C:\Users\Jamie\Desktop\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.exe.config
+C:\Users\Jamie\Desktop\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jamie\Desktop\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment_Data_Analyser.Form1.resources
+C:\Users\Jamie\Desktop\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment_Data_Analyser.Properties.Resources.resources
+C:\Users\Jamie\Desktop\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jamie\Desktop\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jamie\Desktop\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.exe
+C:\Users\Jamie\Desktop\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.pdb
+E:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.exe.config
+H:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.exe.config
+E:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.csprojResolveAssemblyReference.cache
+E:\University\Second Year\Computer & Network Technology 2\Assignment\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.csproj.GenerateResource.Cache
+C:\Users\Jamie\Desktop\Developed Software\Assignment_1_Data_Analyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.exe.config
+C:\Users\Jamie\Desktop\Developed Software\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.exe
+C:\Users\Jamie\Desktop\Developed Software\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.pdb
+C:\Users\Jamie\Desktop\Developed Software\Assignment_1_Data_Analyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.exe
+C:\Users\Jamie\Desktop\Developed Software\Assignment_1_Data_Analyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.pdb
+C:\Users\Jamie\Desktop\Developed Software\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Desktop\Developed Software\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment_Data_Analyser.Form1.resources
+C:\Users\Jamie\Desktop\Developed Software\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment_Data_Analyser.Properties.Resources.resources
+C:\Users\Jamie\Desktop\Developed Software\Assignment_1_Data_Analyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.csproj.GenerateResource.Cache
+C:\Users\Jamie\Desktop\Developed Software\Year2FridgeLogDataAnalyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.exe.config
+C:\Users\Jamie\Desktop\Developed Software\Year2FridgeLogDataAnalyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.exe
+C:\Users\Jamie\Desktop\Developed Software\Year2FridgeLogDataAnalyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.pdb
+C:\Users\Jamie\Desktop\Developed Software\Year2FridgeLogDataAnalyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.exe
+C:\Users\Jamie\Desktop\Developed Software\Year2FridgeLogDataAnalyser\Assignment Data Analyser\bin\Debug\Assignment Data Analyser.pdb
+C:\Users\Jamie\Desktop\Developed Software\Year2FridgeLogDataAnalyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Desktop\Developed Software\Year2FridgeLogDataAnalyser\Assignment Data Analyser\obj\x86\Debug\Assignment_Data_Analyser.Form1.resources
+C:\Users\Jamie\Desktop\Developed Software\Year2FridgeLogDataAnalyser\Assignment Data Analyser\obj\x86\Debug\Assignment_Data_Analyser.Properties.Resources.resources
+C:\Users\Jamie\Desktop\Developed Software\Year2FridgeLogDataAnalyser\Assignment Data Analyser\obj\x86\Debug\Assignment Data Analyser.csproj.GenerateResource.Cache
